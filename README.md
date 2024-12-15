@@ -1,4 +1,4 @@
-# Toasts
+# Toasts by Energo :) 
 
 A toast notification library for SwiftUI.
 
